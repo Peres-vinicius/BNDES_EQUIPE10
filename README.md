@@ -36,8 +36,8 @@ Com isto, é possível filtrar para melhor entendimento, pelos seguintes itens:
 ## Autores
 
 
-- Vinícius Peres Coelho;  www.linkedin.com/in/vinicius-peres-coelho
-- Lucca Pereira Lima Rodrigues; www.linkedin.com/in/lucca-lima
-- Hiromi Ricardo Oliveira da Silva; www.linkedin.com/in/hiromiricardo/
-- João Vitor Alvez Rodrigues; www.linkedin.com/in/jo%C3%A3o-vitor-alves-rodrigues-751590207/
 - Guilherme Santos Silva; www.linkedin.com/in/guilherme5ss/
+- Hiromi Ricardo Oliveira da Silva; www.linkedin.com/in/hiromiricardo/
+- João Vitor Alvez Rodrigues; www.linkedin.com/in/joaovitor-rdgs/
+- Lucca Pereira Lima Rodrigues; www.linkedin.com/in/lucca-lima
+- Vinícius Peres Coelho;  www.linkedin.com/in/vinicius-peres-coelho
