@@ -25,19 +25,24 @@ Com isto, é possível filtrar para melhor entendimento, pelos seguintes itens:
 
 
 
-## Orientações para execução do código
+## Orientações para execução do código versão github
 
 - Todos os códigos do projeto estão disponíveis neste repositório.
-- Alterar o caminho referente à base de dados desembolsos-mensais dentro do módulo Desembolso_mensal.py
-- Executar o código.
+- Fazer download do csv da base de dados disponível em https://dadosabertos.bndes.gov.br/dataset/desembolsos-mensais/resource/aac5c7bd-5d18-41c3-9720-52d20470427e
+- Alterar o caminho referente à base de dados desembolsos-mensais dentro do módulo Desembolso_mensal.py ou deixar a base de dados na mesma pasta do projeto.
+- Executar o código do arquivo Hackathon_BNDES.py.
 
+## Orientações para executar o projeto pelo site
 
+- Acessar o site: http://uemgituiutaba.com/hackathonBNDES.php
+- Fazer download do arquivo compactado.
+- Extrair a pasta e abrir o executável.
+- OBS: A base de dados deve estar na mesma pasta do executável. Não alterar o nome dos arquivos!!!
 
 ## Autores
 
-
 - Guilherme Santos Silva; www.linkedin.com/in/guilherme5ss/
 - Hiromi Ricardo Oliveira da Silva; www.linkedin.com/in/hiromiricardo/
-- João Vitor Alvez Rodrigues; www.linkedin.com/in/joaovitor-rdgs/
+- João Vitor Alves Rodrigues; www.linkedin.com/in/joaovitor-rdgs/
 - Lucca Pereira Lima Rodrigues; www.linkedin.com/in/lucca-lima
 - Vinícius Peres Coelho;  www.linkedin.com/in/vinicius-peres-coelho
