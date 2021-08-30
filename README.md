@@ -39,6 +39,10 @@ Com isto, é possível filtrar para melhor entendimento, pelos seguintes itens:
 - Extrair a pasta e abrir o executável.
 - OBS: A base de dados deve estar na mesma pasta do executável. Não alterar o nome dos arquivos!!!
 
+## Documentação dos casos de usos
+
+- link para download: https://drive.google.com/file/d/1iF-Wwt6uUATWoms7nBJwaB_8d6R9TkEc/view
+
 ## Autores
 
 - Guilherme Santos Silva; www.linkedin.com/in/guilherme5ss/
